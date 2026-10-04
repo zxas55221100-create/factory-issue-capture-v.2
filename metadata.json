@@ -1,0 +1,10 @@
+{
+  "name": "Factory Issue Capture",
+  "description": "ระบบบันทึกและจัดการปัญหาในโรงงาน (Factory Issue Capture & Dashboard) เชื่อมต่อ Google Sheets และ Google Apps Script พร้อมกล้องถ่ายรูปและระบบสิทธิ์ PIN",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
